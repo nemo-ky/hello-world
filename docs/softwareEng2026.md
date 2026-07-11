@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "software Eng. lecture note
+title: "Software Eng. lecture note
 permalink: /docs/softwareEng2026
 ---
 
